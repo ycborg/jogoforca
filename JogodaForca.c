@@ -8,10 +8,9 @@ int main() {
     char palavra[100], palavraMascarada[100], letra;
     int i, tamanhoPalavra, erros = 0, acertos = 0, jaDigitou = 0;
 
-    // Escolhe uma palavra aleatória
+    // Escreva a palavra aqui !!!
     strcpy(palavra, "blitz");
 
-    // Inicializa a palavra mascarada com '_' para cada letra
     tamanhoPalavra = strlen(palavra);
     for (i = 0; i < tamanhoPalavra; i++) {
         palavraMascarada[i] = '_';
@@ -52,7 +51,6 @@ int main() {
             erros++;
             printf("Letra incorreta! Tente novamente.\n");
         }
-
         printf("\n");
     }
 
