@@ -1,5 +1,4 @@
 # Jogo da forca
 
-O jogodaforca.c você tem que escolher a palavra que aparece.
-
-E no jogodaforca2.c tem 33 opções de palavras direfentes e muito dificeis, e na interface mostra as letras que foram erradas.
+Jogo da forca feito em c com escolha aleatória de palavras com base na leitura do documento "palavras.txt"
+O "jogodaforca.c" é uma versão mais antiga do "forca.c".

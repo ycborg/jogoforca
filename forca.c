@@ -14,11 +14,11 @@ int desenho(int erros) {
     } else if (erros == 2) {
         printf(" ____\n|    |\n|    O\n|    |\n|    \n|\n|\n");
     } else if (erros == 3) {
-        printf(" ____\n|    |\n|    O\n|   /|\n|    \n|\n|\n");
+        printf(" ____\n|    |\n|    O\n|    |\n|   /\n|\n|\n");
     } else if (erros == 4) {
-        printf(" ____\n|    |\n|    O\n|   /|\\\n|    \n|\n|\n");
+        printf(" ____\n|    |\n|    O\n|    |\n|   / \\\n|\n|\n");
     } else {
-        printf(" ____\n|    |\n|    O\n|   /|\\\n|   /\n|\n|\n");
+        printf(" ____\n|    |\n|    O\n|   /|\n|   / \\\n|\n|\n");
     }
     return 0;
 }
@@ -105,7 +105,8 @@ int main(int argc, char *argv[0]) {
 
         printf("\n");
     }
-
+    
+    system("cls || clear");
     if (acertos == tamanhoPalavra) {
         printf("Voce acertou! A palavra era: %s\n", palavra);
     } else {
