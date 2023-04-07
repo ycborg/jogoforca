@@ -1,4 +1,4 @@
-33
+44
 axioma
 azulejo
 blitz
@@ -32,3 +32,14 @@ vertiginoso
 vicissitude
 vortice
 xilofone
+detrimento
+geleia
+energumeno
+tolo
+morticia
+vapor
+plasma
+cadaver
+argila
+concomitante
+polvora
