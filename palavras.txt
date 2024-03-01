@@ -1,4 +1,4 @@
-44
+47
 axioma
 azulejo
 blitz
@@ -43,3 +43,6 @@ cadaver
 argila
 concomitante
 polvora
+putrefo
+xexelento
+instagram
