@@ -1,4 +1,4 @@
-# Calculadora em C
+# Jogo da Forca
 
 ### Descrição:
 É um clássico jogo da forca, contendo 46 palavras diferentes.
