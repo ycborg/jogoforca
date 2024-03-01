@@ -1,4 +1,7 @@
-# Jogo da forca
+# Calculadora em C
 
-Jogo da forca feito em c com escolha aleatória de palavras com base na leitura do documento "palavras.txt"
-O "jogodaforca.c" é uma versão mais antiga do "forca.c".
+### Descrição:
+É um clássico jogo da forca, contendo 46 palavras diferentes.
+
+### Como usar?
+Primeiramente, crie o executável do código com a ajuda do 'makefile'; basta digitar no terminal 'make all'. Em seguida, digite './forca palavras.txt' no terminal.
